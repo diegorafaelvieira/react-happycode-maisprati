@@ -1,6 +1,11 @@
 # Módulo React
 
-<p align="justify"> Repositório do Módulo Bônus oferecido pelo +praTi e oferecido pela Happy Code, utilizando o React que é uma biblioteca front-end JavaScript.</p>
+<p align="justify"> Repositório do Módulo Bônus oferecido pelo +praTi e oferecido pela Happy Code, utilizando o React que é uma biblioteca front-end JavaScript. Projeto desenvolvido durante as 4 aulas do Módulo React e orientado pelo professor Henrique Casagrande.</p>
+
+<p align="center">
+  <a align="center" href="https://react-happycode-maisprati-c99cbs49d-diegorafaelvieira.vercel.app/" target="_blank"> <br>Link Projeto</a>
+</p>
+
 
 
 ## Vite
