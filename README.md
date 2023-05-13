@@ -2,6 +2,14 @@
 
 <p align="justify"> Repositório do Módulo Bônus oferecido pelo +praTi e oferecido pela Happy Code, utilizando o React que é uma biblioteca front-end JavaScript. Projeto desenvolvido durante as 4 aulas do Módulo React e orientado pelo professor Henrique Casagrande.</p>
 
+<div align="center">
+  
+  ![print1](https://github.com/diegorafaelvieira/react-happycode-maisprati/assets/31875207/4efa7456-7be3-48a7-9f86-a88a0934be16)
+
+  ![print2](https://github.com/diegorafaelvieira/react-happycode-maisprati/assets/31875207/4a3560dd-da6e-40b3-8997-42420ed722b2)
+</div>
+
+
 <p align="center">
   <a align="center" href="https://react-happycode-maisprati-c99cbs49d-diegorafaelvieira.vercel.app/" target="_blank"> <br>Link Projeto</a>
 </p>
